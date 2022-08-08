@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋,
+I am a web developer. I'am trying to execute what i learn. With this account you can support me and share your comments with me. 
+I'm using Flutter, Angular (10+), Sql and .Net technologies when i develop web, desktop or mobil applications. 
 
 <!--
 **sonumuteng1/sonumuteng1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
